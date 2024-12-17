@@ -82,3 +82,12 @@ best_solution, best_fitness = run_genetic_algorithm()
 
 print("\nBest solution found:", best_solution)
 print("Best fitness found:", best_fitness)
+
+# Generation 1/200 - Best Fitness: 6.569775550116974, Best Solution: 2.564481472544608
+# Generation 2/200 - Best Fitness: 88.96488166245232, Best Solution: 9.42903349675808
+# ...
+# Generation 200/200 - Best Fitness: 95.33754976716684, Best Solution: 9.767505249914859
+
+# Best solution found: 9.767505249914859
+# Best fitness found: 95.33754976716684
+
